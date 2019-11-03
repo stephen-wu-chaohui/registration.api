@@ -1,0 +1,14 @@
+C:\EX\Stephen.API\DocuSQL.API\bin\Release\netcoreapp2.2\DocuSQL.API.deps.json
+C:\EX\Stephen.API\DocuSQL.API\bin\Release\netcoreapp2.2\DocuSQL.API.runtimeconfig.json
+C:\EX\Stephen.API\DocuSQL.API\bin\Release\netcoreapp2.2\DocuSQL.API.runtimeconfig.dev.json
+C:\EX\Stephen.API\DocuSQL.API\bin\Release\netcoreapp2.2\DocuSQL.API.dll
+C:\EX\Stephen.API\DocuSQL.API\bin\Release\netcoreapp2.2\DocuSQL.API.pdb
+C:\EX\Stephen.API\DocuSQL.API\obj\Release\netcoreapp2.2\DocuSQL.API.csprojAssemblyReference.cache
+C:\EX\Stephen.API\DocuSQL.API\obj\Release\netcoreapp2.2\DocuSQL.API.csproj.CoreCompileInputs.cache
+C:\EX\Stephen.API\DocuSQL.API\obj\Release\netcoreapp2.2\DocuSQL.API.RazorAssemblyInfo.cache
+C:\EX\Stephen.API\DocuSQL.API\obj\Release\netcoreapp2.2\DocuSQL.API.RazorAssemblyInfo.cs
+C:\EX\Stephen.API\DocuSQL.API\obj\Release\netcoreapp2.2\DocuSQL.API.AssemblyInfoInputs.cache
+C:\EX\Stephen.API\DocuSQL.API\obj\Release\netcoreapp2.2\DocuSQL.API.AssemblyInfo.cs
+C:\EX\Stephen.API\DocuSQL.API\obj\Release\netcoreapp2.2\DocuSQL.API.RazorTargetAssemblyInfo.cache
+C:\EX\Stephen.API\DocuSQL.API\obj\Release\netcoreapp2.2\DocuSQL.API.dll
+C:\EX\Stephen.API\DocuSQL.API\obj\Release\netcoreapp2.2\DocuSQL.API.pdb
